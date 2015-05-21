@@ -1,8 +1,8 @@
 .. image:: https://travis-ci.org/mrterry/yoink.png
    :target: https://travis-ci.org/mrterry/yoink
 
-Yoink
-=====
+Yoinkzor
+========
 
 Yoink is a tool for extracting data from scientific figures.  
 
